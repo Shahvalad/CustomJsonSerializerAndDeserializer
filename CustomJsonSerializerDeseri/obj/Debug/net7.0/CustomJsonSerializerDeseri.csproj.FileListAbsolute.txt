@@ -1,0 +1,17 @@
+C:\Users\Шахвалад\source\repos\CustomJsonSerializerDeseri\CustomJsonSerializerDeseri\bin\Debug\net7.0\CustomJsonSerializerDeseri.exe
+C:\Users\Шахвалад\source\repos\CustomJsonSerializerDeseri\CustomJsonSerializerDeseri\bin\Debug\net7.0\CustomJsonSerializerDeseri.deps.json
+C:\Users\Шахвалад\source\repos\CustomJsonSerializerDeseri\CustomJsonSerializerDeseri\bin\Debug\net7.0\CustomJsonSerializerDeseri.runtimeconfig.json
+C:\Users\Шахвалад\source\repos\CustomJsonSerializerDeseri\CustomJsonSerializerDeseri\bin\Debug\net7.0\CustomJsonSerializerDeseri.dll
+C:\Users\Шахвалад\source\repos\CustomJsonSerializerDeseri\CustomJsonSerializerDeseri\bin\Debug\net7.0\CustomJsonSerializerDeseri.pdb
+C:\Users\Шахвалад\source\repos\CustomJsonSerializerDeseri\CustomJsonSerializerDeseri\obj\Debug\net7.0\CustomJsonSerializerDeseri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Шахвалад\source\repos\CustomJsonSerializerDeseri\CustomJsonSerializerDeseri\obj\Debug\net7.0\CustomJsonSerializerDeseri.AssemblyInfoInputs.cache
+C:\Users\Шахвалад\source\repos\CustomJsonSerializerDeseri\CustomJsonSerializerDeseri\obj\Debug\net7.0\CustomJsonSerializerDeseri.AssemblyInfo.cs
+C:\Users\Шахвалад\source\repos\CustomJsonSerializerDeseri\CustomJsonSerializerDeseri\obj\Debug\net7.0\CustomJsonSerializerDeseri.csproj.CoreCompileInputs.cache
+C:\Users\Шахвалад\source\repos\CustomJsonSerializerDeseri\CustomJsonSerializerDeseri\obj\Debug\net7.0\CustomJsonSerializerDeseri.dll
+C:\Users\Шахвалад\source\repos\CustomJsonSerializerDeseri\CustomJsonSerializerDeseri\obj\Debug\net7.0\refint\CustomJsonSerializerDeseri.dll
+C:\Users\Шахвалад\source\repos\CustomJsonSerializerDeseri\CustomJsonSerializerDeseri\obj\Debug\net7.0\CustomJsonSerializerDeseri.pdb
+C:\Users\Шахвалад\source\repos\CustomJsonSerializerDeseri\CustomJsonSerializerDeseri\obj\Debug\net7.0\CustomJsonSerializerDeseri.genruntimeconfig.cache
+C:\Users\Шахвалад\source\repos\CustomJsonSerializerDeseri\CustomJsonSerializerDeseri\obj\Debug\net7.0\ref\CustomJsonSerializerDeseri.dll
+C:\Users\Шахвалад\source\repos\CustomJsonSerializerDeseri\CustomJsonSerializerDeseri\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Шахвалад\source\repos\CustomJsonSerializerDeseri\CustomJsonSerializerDeseri\obj\Debug\net7.0\CustomJsonSerializerDeseri.csproj.AssemblyReference.cache
+C:\Users\Шахвалад\source\repos\CustomJsonSerializerDeseri\CustomJsonSerializerDeseri\obj\Debug\net7.0\CustomJsonSerializerDeseri.csproj.CopyComplete

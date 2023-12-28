@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i11lHFSojYOx3/UzHplrFtoH+HBU8LVm+ebnPxouCWN8zsib0oDILW7KKg4yEKthMJV8Bt3bgO57hU+CrPnFLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Шахвалад\\source\\repos\\CustomJsonSerializerDeseri\\CustomJsonSerializerDeseri\\CustomJsonSerializerDeseri.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Шахвалад\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
